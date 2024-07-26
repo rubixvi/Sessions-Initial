@@ -1,6 +1,6 @@
-# XRL Sessions Social Media Platofrm
+# XRL Sessions Social Media Platform
 
-Sessions is Australia's social media platform built using NextJS, Supabase, Supabase Auth, Supabase Storage, Hedera Hashgraph and Hedera Network. It is designed to be an engaging and rewarding AI-secured social media platform. Sessions is built to enhance user experience and security. Our aim is to reduce costs in advertising and provide a rewarding experience utilising Hedera for fast and low fee transactions, allowing creators to innovate and be rewarded for their efforts.
+Sessions is Australia's social media platform, built using NextJS, Supabase, Supabase Auth, Supabase Storage, Hedera Hashgraph, and Hedera Network. It is designed to be an engaging and rewarding AI-secured social media platform. Sessions is built to enhance user experience and security. We aim to reduce advertising costs and provide a rewarding experience utilising Hedera for fast and low-fee transactions, allowing creators to innovate and be rewarded for their efforts.
 
 ## Learn more
 
